@@ -2,3 +2,9 @@
 // names of species, name, age, gender & favoriteFood.
 
 var moreAnimals;
+
+var moreAnimals=[{name:"chat",age:"5",age:"",gender:"ffff",favoriteFood:"lait"},
+                 {name:"singe",age:"4",age:"",gender:"ffff",favoriteFood:"banane"},
+                 {name:"baleine",age:"3",age:"",gender:"ffff",favoriteFood:"jkdkdk"}];
+
+

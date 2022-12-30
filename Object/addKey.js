@@ -4,4 +4,9 @@
 var animal;
 var addKey;
 
+animal={}
+function addKey(animal){
+    return  animal.weight="50";
+}
+
 

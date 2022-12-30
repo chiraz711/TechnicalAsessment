@@ -4,4 +4,10 @@
 var animal;
 var findAge;
 
+var animal={name:'cat',age:'25'}
+
+findAge=function (animal){
+    return animal.age;
+}
+
 
